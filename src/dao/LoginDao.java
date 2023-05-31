@@ -1,7 +1,7 @@
 package dao;
 
 
-import com.mysql.cj.log.Log;
+
 import model.Login;
 import util.ConnectionFactory;
 
@@ -12,7 +12,7 @@ public class LoginDao {
 
     public static ArrayList<Login>buscarLogin() throws SQLException {
         ArrayList<Login>loginAux  = new ArrayList<>();
-        String sql ="selec log_nome , log_senha from login";
+        String sql ="select log_nome , log_senha from login";
 
         Connection conn = ConnectionFactory.getConexao();
         PreparedStatement ps = conn.prepareStatement(sql);

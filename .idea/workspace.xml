@@ -5,12 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c785ed60-b18f-45fd-965d-65367f63db01" name="Changes" comment="up">
-      <change afterPath="$PROJECT_DIR$/src/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jdbc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/LoginView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaInformacoes.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaInformacoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sistemaCadastroR.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PerfilPessoa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/LoginController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dao/LoginDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/LoginDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/util/ConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/ConnectionFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/telaCliente.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/telaCliente.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Login.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/LoginView.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/TelaInicio.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/TelaInicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/SystemView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/telaCliente.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/telaCliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/telaPesquisa.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/SearchView.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/telaPesquisa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/SearchView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +47,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2PWvAeey5N33u4smr5vccZhtnyk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,7 +65,7 @@
     &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW&quot;: &quot;true&quot;,
     &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;331&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/jdbc/mysql-connector-j-8.0.31.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Trabalhos/PerfilPessoa2&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -78,6 +95,17 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="up" />
